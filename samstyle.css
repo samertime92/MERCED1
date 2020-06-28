@@ -1,0 +1,401 @@
+
+body{text-align: center;
+margin:0px;}
+.head-container{background-color:#af0404;
+width:1190px;/*EM 74.4 */
+height:160px;/*EM 10*/
+border-style: groove;
+border-color:#111d5e;
+border-width: 16px;/* 1 em*/
+position:relative;
+margin:0px auto 0px auto;}
+.h1{color:#111d5e;
+FONT-FAMILY:SERIF;
+font-style: BOLD;
+font-weight: 900;
+font-size: 90px;
+padding:0px;
+position:relative;
+margin:0px auto 0px auto;
+display:inline-block;}
+.h2{display: inline-block;color:#111d5e;
+  font-family: serif;
+  font-style: italic;
+  font-size:48px;
+  padding: 0px;
+  margin: 0px auto 0px auto;
+  font-weight:BOLDER;}
+  HR{position: relative;
+  TOP:-72px;
+border-style: groove;
+width: 446px;
+border:4px 20px 50px 10px;}
+.body-container{height: 1900px;padding-top: 176px;
+width:1190px; /* 11em 74.3em*/
+position:relative;
+border-style:dotted;
+border-color: #111d5e;
+border-width:16px;
+margin:0px auto 0px auto;
+ background-image: linear-gradient(#af0404,#111d5e );}
+ h2{font-family:MuseoModerno,serif;
+ display: inline-block;
+font-weight:bolder;
+font-size:60px;color:white;
+margin:0px auto 0px auto;
+position: relative;top:-800px;left:255px;
+padding:0px;}
+.H4{font-family:MuseoModerno,serif;
+font-weight:bolder;
+font-size:100px;color:white;
+margin:0px;
+position: relative;top:16px;
+}
+.h3{padding:0px;margin:0px;right:320px;position: relative;
+TOP:-48px;font-size:24px;color:white;}
+.CONTAINER9{background-image: linear-gradient(#af0404,#af0404,#111d5e);width: 1190px;height: 2200px;border-width: 16PX;border-color:
+ #111d5e;border-style: dotted;}
+.CONTAINER5{background-image: linear-gradient(#af0404,#af0404,#111d5e);width: 1190px;height: 4400px;border-width: 16PX;border-color:
+ #111d5e;border-style: dotted;}
+.CONTAINER2{background-image: linear-gradient(#af0404,#af0404,#af0404,#111d5e);width: 1190px;height: 9000px;border-width: 16PX;border-color:
+ #111d5e;border-style: dotted;}
+ .CONTAINER3{background-image: linear-gradient(#af0404,#af0404,#af0404,#111d5e);width: 1190px;height: 6500px;border-width: 16PX;border-color:
+  #111d5e;border-style: dotted;}
+  .CONTAINER6{background-image: linear-gradient(#af0404,#af0404,#111d5e);width: 1190px;height: 3500px;border-width: 16PX;border-color:
+   #111d5e;border-style: dotted;}
+.tacos-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom,#af0404 ,#111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:1800px;
+  right:460px;
+  width:240px;
+  height:50px;
+
+}
+.tacos-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom, #111d5e,#af0404);
+  text-decoration: none;
+
+}
+.pizzas-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom, #af0404, #111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:1650px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.pizzas-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom, #111d5e, #af0404);
+  text-decoration: none;
+
+}
+.burger-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom,#af0404 ,#111d5e );
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 28px;
+
+  padding-top: 25px;
+  padding-right:11px;
+  padding-left: 11px;
+  padding-bottom: 2px;
+
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:1500px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.burger-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom,#111d5e,#af0404);
+  text-decoration: none;
+}
+.kebab-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom, #af0404, #111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:1350px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.kebab-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom, #111d5e, #af0404);
+  text-decoration: none;
+
+}
+.campero-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom,#af0404 , #111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:1200px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.campero-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom,#111d5e , #af0404);
+  text-decoration: none;
+
+}
+.perritos-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom, #af0404, #111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:1050px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.perritos-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom,#111d5e, #af0404 );
+  text-decoration: none;
+
+}
+.ensaladas-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom,#af0404 , #111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:900px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.ensaladas-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom,#111d5e , #af0404);
+  text-decoration: none;
+}
+.bebida-btn {
+  background: #af0404;
+  background-image: -webkit-linear-gradient(top, #af0404, #111d5e);
+  background-image: -moz-linear-gradient(top, #af0404, #111d5e);
+  background-image: -ms-linear-gradient(top, #af0404, #111d5e);
+  background-image: -o-linear-gradient(top, #af0404, #111d5e);
+  background-image: linear-gradient(to bottom, #af0404, #111d5e);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 12.8px;
+  -webkit-box-shadow: 0px 1.6px 8px #ff0000;/*oem 0.1em.0.5em*/
+  -moz-box-shadow: 0px 1.6px 8px #ff0000;
+  box-shadow: 0px 1.6px 4.8px #ff0000;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 40.2px;
+  padding: 11.2px;
+  text-decoration: none;
+  display: inline-block;
+  position: absolute;
+  margin:0px auto 0px auto;
+  bottom:750px;
+  right:460px;
+  width:240px;
+  height:50px;
+}
+.bebida-btn:hover {
+  background: #111d5e;
+  background-image: -webkit-linear-gradient(top, #111d5e, #af0404);
+  background-image: -moz-linear-gradient(top, #111d5e, #af0404);
+  background-image: -ms-linear-gradient(top, #111d5e, #af0404);
+  background-image: -o-linear-gradient(top, #111d5e, #af0404);
+  background-image: linear-gradient(to bottom,#111d5e, #af0404 );
+  text-decoration: none;
+
+}
+.phead{color:#111d5e ;font-weight: bolder; text-align:left;margin-left:90px;font-size: 60px;font;}
+.pbody{color:white;font-size:50px;text-align: left;margin-left: 90px;margin-bottom:200px;margin-top:-70px;}
+.pricetag{top:-40px;color:white;font-size:24px;;font-weight:bolder; position: relative;left:10px;border-color:white;border-style:dotted;border-radius: 20px;margin:0px;padding:0px;display: inline-block;}
+.EXTRA{COLOR:WHITE;position:relative;font-size: 20PX;}
+.pricetag2{color:white;font-size:25px;;font-weight:bolder; position: relative;left:50px;border-color:white;border-style:dotted;border-radius: 30px ;border-width: 5PX;width: 1000px;left:90px;margin:0px;padding:0px;}
+.ptag{color:#111d5e;position:relative;text-align: center; font-weight:bolder;font-size: 27PX ;}
+.PIZZA-PRICE{COLOR:WHITE;font-size: 50PX;margin: 0;padding:0PX;position: relative;TOP:123PX;}
+.pricetag3{font-size:23px;color:white;border-color:white;border-style:dotted;border-radius: 20px ;border-width: 3PX;width: 1000px;margin:0 auto 0 auto;position: relative;top:-100px}
+.ptag3{color:#111d5e;position:relative;text-align: center; font-weight:bolder;font-size: 27PX ; }
+.extra{color:white;top:-385px;position: relative;font-size: 50px;}
+.extra1{color:white;top:-385px;position: relative;font-size: 50px;}
+
+hr{background-color:white;color:white;border-color: white;}
+img{position:relative;bottom:-1150px;RIGHT:120PX;width:500px;height:750px;padding-bottom:0PX;margin-bottom:0PX;display: inline-block;border:0PX;z-index: 2};
+.tacoveg{relativez}
+.tacoroyal{position:absolute;;width: 450px;height:325px;border:0px;top:600px;left:650px;display:inline-block;padding:0px;margin:0px;border:0px;}
+.tacoveg{position:absolute;;width: 375px;height:275px;border:0px;top:2430px;left:650px;display:inline-block;padding:0px;margin:0px;border:0px;}
+.tacoparis{position:absolute;;width: 375px;height:250px;border:0px;top:1070px;left:650px;display:inline-block;padding:0px;margin:0px;border:0px;}
+.buildings{position:relative;bottom:-650px;RIGHT:20PX;width:1100px;height:350px;padding: 0PX;margin:0px;z-index:1;transform: rotate(-1deg);}
+.pizzamerced1{width: 400px;height: 300px;position: absolute;margin: 0px;padding: 0px;top:750px;left:700px;}
+.pizzacapri{width: 375px;height: 275px;position: absolute;margin: 0px;padding: 0px;top:1750px;left:700px;}
+.salsa{width: 850px;height:650px;display:inline-block;margin:0px,padding:0px;position:relative;top:300px;transform: rotate(0.20deg);left:10px}
+.tarrina{width: 450px;height:350px;display:inline-block;margin:0px,padding:0px;position:absolute;;top:2500px;left:350px}
+
+.stars{position:relative;bottom:-50px;RIGHT:-20PX;width:1000px;height:350px;padding: 0PX;margin:0px;z-index:1;transform: rotate(-1deg);}
+.clouds{position:relative;bottom:200px;RIGHT:40PX;width:300px;height:100px;padding: 0PX;margin:0px;z-index:1;transform: rotate(-1deg);  animation-duration: 30s;
+  animation-name: slidein2;
+  animation-iteration-count: infinite;
+  animation-direction:normal;
+}
+@keyframes slidein2{
+  from {margin-right:80%;
+    width: 20%;
+  }
+
+  to {
+    margin-right:0%;
+    width:20%;
+  }
+}
+.burger{position:absolute;;width: 525px;height:300px;border:0px;top:600px;left:600px;display:inline-block;padding:0px;margin:0px;border:0px;transform: rotate(-6deg);}
+.pricetag7{color:white;font-size:35px;;font-weight:bolder; position: relative;left:50px;border-color:white;border-style:dotted;border-radius: 30px ;border-width: 5PX;width: 1000px;left:90px;margin:0px;padding:0px;}
+.pricetag8{color:white;font-size:30px;;font-weight:bolder;display: inline-block;position: relative;left:50px;border-color:white;border-style:dotted;border-radius: 30px ;border-width: 5PX;width: 1000px;margin:0 ;padding:0px;top:300px;left:0px}
+.ptag9{color:white;font-size: 40px;margin:0px;top:-200px;left: -270px ;position:relative;display: inline-block;}
